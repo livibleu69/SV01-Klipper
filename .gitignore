@@ -7,3 +7,6 @@ secrets.conf*.bak
 printer-[0-9]*_[0-9]*.cfg
 *.zip
 *.bak
+*.bkp
+*.csv
+*.zip
